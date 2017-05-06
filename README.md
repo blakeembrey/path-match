@@ -1,5 +1,7 @@
 # path match
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/blakeembrey/path-match.svg)](https://greenkeeper.io/)
+
 Thin wrapper around [path-to-regexp](https://github.com/component/path-to-regexp) to make extracting the param names easier.
 
 ```js
